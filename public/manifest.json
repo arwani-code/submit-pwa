@@ -1,0 +1,16 @@
+{
+    "name": "Pw Id",
+    "short_name": "pw",
+    "description": "Pwa Broooo!!!",
+    "gcm_sender_id" : "452236278590",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#212121",
+    "theme_color": "#212121",
+    "icons": [{
+        "src": "asset/images/icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    }]
+}

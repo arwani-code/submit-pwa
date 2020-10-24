@@ -1,0 +1,29 @@
+body {
+    background: #eceff1;
+}
+
+.nav-logo {
+    font-weight: bold;
+}
+
+.waves-effect {
+    font-size: 20px;
+}
+
+form {
+    margin-top: 100px;
+}
+
+.about-content {
+    margin-top: 100px;
+}
+
+.table-home{
+    padding-left: 205px;
+}
+
+@media only screen and (max-width: 600px) {
+    .table-home {
+        padding-left: 0;
+    }
+  }
